@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "apexcharts": "^3.19.0",
+    "apexcharts": "^3.24.0",
     "d3": "^5.15.0"
   },
   "devDependencies": {
