@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "apexcharts": "^3.19.0",
-    "d3": "^5.15.0"
+    "d3": "^7.6.1"
   },
   "devDependencies": {
     "@types/d3": "^5.7.2",
